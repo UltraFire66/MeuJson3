@@ -8,7 +8,8 @@
 	      "marca": "old spice",
 	      "Idfornecedor": 5
      },
-     
+		  
+     {
      "idProduto": 2,
 	      "nome": "desodorante",
 	      "quantidade": 22,
@@ -71,9 +72,7 @@
 	        "numero": 45
 	      }
      },
-	        "numero": 13
-	      }
-     },
+	        
      
      {
 	      "idFornecedor": 7,
