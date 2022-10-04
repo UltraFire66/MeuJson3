@@ -56,6 +56,7 @@
 	        "rua": "rua do desodorante sla",
 	        "numero": 55
 	      }
+	     
      },
      
      {
@@ -63,14 +64,11 @@
 	      "nome": "Old Spice",
 	      "endereço": {
 	        "cidade": "Cidade sede",
-	        "rua": "rua do desodorante Bozano sla",{
-	      "idFornecedor": 22,
-	      "nome": "Dragão",
-	      "endereço": {
-	        "cidade": "Cidade sede",
-	        "rua": "rua do senhor dos aneis",
-	        "numero": 45
+	        "rua": "rua do desodorante Bozano sla",
+		"numero": 177
 	      }
+	      
+	     
      },
 	        
      
@@ -82,7 +80,9 @@
 	        "rua": "rua da cola",
 	        "numero": 90
 	      }
+	     
      },
+		    
      
       {
 	      "idFornecedor": 22,
@@ -92,17 +92,10 @@
 	        "rua": "rua do senhor dos aneis",
 	        "numero": 45
 	      }
+	      
      },
      
-     {
-	      "idFornecedor": 9,
-	      "nome": "Dragão",
-	      "endereço": {
-	        "cidade": "Cidade sede",
-	        "rua": "rua do senhor dos aneis",
-	        "numero": 45
-	      }
-     },
+     
      
      ]
 
